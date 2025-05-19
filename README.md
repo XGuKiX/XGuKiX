@@ -1,5 +1,5 @@
 ## Hi there 👋
-// === Programme Complet : Timeswap === // Frontend : React Native + Expo // Backend : Node.js (Express) + Supabase Edge Functions + Stripe // Données : Import des coiffeurs & esthéticiennes via API + géocodage OpenStreetMap // Authentification sécurisée avec validation stricte du mot de passe
+// Timeswap === // Frontend : React Native + Expo // Backend : Node.js (Express) + Supabase Edge Functions + Stripe // Données : Import des coiffeurs & esthéticiennes via API + géocodage OpenStreetMap // Authentification sécurisée avec validation stricte du mot de passe
 
 // === 1. BACKEND : Node.js Express + Stripe Webhooks === // install: express, stripe, supabase-js, dotenv, body-parser, zxcvbn
 
